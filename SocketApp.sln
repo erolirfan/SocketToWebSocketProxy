@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Socket", "Socket\Socket.csproj", "{03CEEA5C-320E-4A92-A688-92C033EC3824}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{23E0F79C-02DA-4C89-ADBC-28F08ACDF204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSocketClient", "WebSocketClient\WebSocketClient.csproj", "{CBD1ABA1-C5E7-4670-9A20-4511E81C274D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebClient", "WebClient\WebClient.csproj", "{5A2B7942-6751-4C26-BBD4-FACAF237291B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03CEEA5C-320E-4A92-A688-92C033EC3824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03CEEA5C-320E-4A92-A688-92C033EC3824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03CEEA5C-320E-4A92-A688-92C033EC3824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03CEEA5C-320E-4A92-A688-92C033EC3824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23E0F79C-02DA-4C89-ADBC-28F08ACDF204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E0F79C-02DA-4C89-ADBC-28F08ACDF204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E0F79C-02DA-4C89-ADBC-28F08ACDF204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E0F79C-02DA-4C89-ADBC-28F08ACDF204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBD1ABA1-C5E7-4670-9A20-4511E81C274D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD1ABA1-C5E7-4670-9A20-4511E81C274D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD1ABA1-C5E7-4670-9A20-4511E81C274D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD1ABA1-C5E7-4670-9A20-4511E81C274D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A2B7942-6751-4C26-BBD4-FACAF237291B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A2B7942-6751-4C26-BBD4-FACAF237291B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A2B7942-6751-4C26-BBD4-FACAF237291B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A2B7942-6751-4C26-BBD4-FACAF237291B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
